@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## File Downloads
 
 You can use the [editor on GitHub](https://github.com/cintagram/cabparchive/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
